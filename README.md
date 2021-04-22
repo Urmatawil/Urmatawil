@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning vueJs, ReactJS and TailwindCSS.
 - ✨ I want to learn python and ruby.
-- ⭐ My Portfolio: ➡️ **(https://urmatawil.netlify.app/)**
+- ⭐ My **[Portfolio](https://urmatawil.netlify.app/)**
 
 <!---
 Urmatawil/Urmatawil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
