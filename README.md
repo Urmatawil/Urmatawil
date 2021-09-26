@@ -2,12 +2,12 @@
 
 - 👀 I’m interested in web development.
 - 📚 I’m currently learning vueJs, ReactJS and TailwindCSS.
-- 😎 I want to learn ruby and C#.
+- 😎 I want to learn Go and C#.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmatawil&layout=compact)
 
 
 _Social Media_
-⭐ **[My Portfolio](https://urmatawil.netlify.app/)**
+⭐ **[My Portfolio](https://urmatawil.xyz)**
 💻 **[Linkedin](https://www.linkedin.com/in/urmatawil/)**
 🐦 **[Twitter](https://twitter.com/Urm_At_Awil)**
