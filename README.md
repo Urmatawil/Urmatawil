@@ -11,6 +11,9 @@
 ## My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmatawil&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urmatawil&show_icons=true&theme=tokyonight)
+
+
 
 
 
