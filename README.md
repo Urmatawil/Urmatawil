@@ -4,7 +4,8 @@
 - 📚 I’m currently learning vueJs, ReactJS and TailwindCSS.
 - 😎 I want to learn ruby and C#.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmatawil)][(https://github.com/urmatawil/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmatawil&layout=compact)]
+
 
 _Social Media_
 ⭐ **[My Portfolio](https://urmatawil.netlify.app/)**
