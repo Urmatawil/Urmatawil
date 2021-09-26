@@ -6,9 +6,12 @@
 - 📚 I’m currently learning vueJs, ReactJS and TailwindCSS.
 - 😎 I want to learn Go and C#.
 
+
+
 ## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmatawil&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmatawil&layout=compact&theme=tokyonight)
+
 
 
 _Social Media_
