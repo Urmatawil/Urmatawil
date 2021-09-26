@@ -26,7 +26,7 @@
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmatawil&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmatawil&theme=tokyonight&layout=compact)
 
 ### _Social Media_
 ⭐ **[My Portfolio](https://urmatawil.xyz)**
