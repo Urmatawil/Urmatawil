@@ -2,10 +2,9 @@
 
 # Hi, i'm Rafael Ramirez
 
-- 👀 I’m interested in web development.
+- 💻 I’m interested in web development. 
 - 📚 I’m currently learning vueJs, ReactJS and TailwindCSS.
-- 😎 I want to learn Go and C#.
-
+- 📖 I want to learn Go and C#.
 
 ## My GitHub Stats
 
